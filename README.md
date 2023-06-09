@@ -1,11 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" width="100"/>
 </div>
 
-
-
 <h3 align="center">Olá, mundo!</h3>
-
 
 <h4 align="center">Estudante universitário ávido por conhecimento e apaixonado pela arte da programação, em busca de desafios e oportunidades de aprendizado contínuo.</h4>
 
