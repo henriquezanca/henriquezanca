@@ -4,7 +4,7 @@
 
 <h3 align="center">Olá, mundo!</h3>
 
-<h4 align="center">Estudante universitário ávido por conhecimento e apaixonado pela arte da programação, em busca de desafios e oportunidades de aprendizado contínuo.</h4>
+<h4 align="center">Estudante universitário ávido por conhecimento, em busca de desafios e oportunidades de aprendizado contínuo.</h4>
 
 
 - 📫 Contato: **hhzanca@gmail.com**
